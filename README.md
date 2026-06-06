@@ -48,5 +48,3 @@ The final solution uses:
 * ATM-weighted polynomial smile fitting
 * Independent CE/PE smile reconstruction
 * Linear-dominant edge extrapolation
-
-Final Score: **0.0000403692**
